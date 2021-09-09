@@ -3,6 +3,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergeyOcheretenko&hide=issues,contribs&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyOcheretenko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SergeyOcheretenko&hide=issues,contribs&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyOcheretenko&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <!--
 **SergeyOcheretenko/SergeyOcheretenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
