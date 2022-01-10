@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi <img src="https://raw.githubusercontent.com/SergeyOcheretenko/SergeyOcheretenko/test/wave.gif" width="25px">, this is Sergey Ocheretenko
+ 
+💻 [Python/JavaScript developer](https://github.com/SergeyOcheretenko)
+🌱 Learning JavaScript and Node.js technology with [HowProgrammingWorks](https://www.github.com/HowProgrammingWorks)
+🎓 Student and group leader at Kyiv Polytechnic Institute, FICT
+🏆 Team Lead of the math and physics team | [UNEXT](https://unext.in.ua)
+🎸 Guitarist
+💬 Telegram: [@OcheretenkoS](https://telegram.me/OcheretenkoS)
+🔭 [LinkedIn](https://www.linkedin.com/in/sergeyocheretenko/)  
+📫 [ocheretenko.s@gmail.com](mailto:ocheretenko.s@gmail.com)
+<!-- 📺 Resume -->
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SergeyOcheretenko&hide=issues,contribs&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyOcheretenko&layout=compact&hide_border=true&theme=buefy" /></a> |
 | ------------- | ------------- |
