@@ -1,4 +1,4 @@
-### Hi, I`m Sergey <img src="https://raw.githubusercontent.com/SergeyOcheretenko/SergeyOcheretenko/test/wave.gif" width="25px">
+### Hi, I'm Sergey <img src="https://raw.githubusercontent.com/SergeyOcheretenko/SergeyOcheretenko/test/wave.gif" width="25px">
  
 💻 [Python/JavaScript developer](https://github.com/SergeyOcheretenko)
 🌱 Learning JavaScript and Node.js technology with [HowProgrammingWorks](https://www.github.com/HowProgrammingWorks)
