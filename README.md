@@ -1,4 +1,4 @@
-### Hi👋, this is Sergey Ocheretenko
+### Hi 👋, this is Sergey Ocheretenko
  
 💻 [Python/JavaScript developer](https://github.com/SergeyOcheretenko)
 🌱 Learning JavaScript and Node.js technology with [HowProgrammingWorks](https://www.github.com/HowProgrammingWorks)
