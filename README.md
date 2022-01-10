@@ -1,12 +1,12 @@
 ### Hi there 👋
  
-🔭 [Python/JavaScript developer](https://github.com/HowProgrammingWorks/Index)  
+🔭 [Python/JavaScript developer](https://github.com/SergeyOcheretenko)  
 🌱 Learning JavaScript and Node.js technology with [HowProgrammingWorks](https://www.github.com/HowProgrammingWorks)  
 🎓 Student and group leader at Kyiv Polytechnic Institute, FICT   
 ⚪ Team Lead of the math and physics team | [UNEXT](https://unext.in.ua)   
 🎸 Guitarist  
 💬 Telegram: [@OcheretenkoS](https://telegram.me/OcheretenkoS)    
-📫 [ocheretenko.s@gmail.com](mailto:timur.shemsedinov@gmail.com)    
+📫 [ocheretenko.s@gmail.com](mailto:ocheretenko.s@gmail.com)    
 <!-- 📺 Resume -->
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SergeyOcheretenko&hide=issues,contribs&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyOcheretenko&layout=compact&hide_border=true&theme=buefy" /></a> |
