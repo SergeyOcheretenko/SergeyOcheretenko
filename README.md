@@ -18,7 +18,7 @@
   <a href="https://github.com/SergeyOcheretenko" target="_blank"><img height="25" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SergeyOcheretenko&hide=stars,contribs&count_private=true&include_all_commits=true&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyOcheretenko&layout=compact&hide_border=true&theme=buefy" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SergeyOcheretenko&hide=stars,contribs&count_private=true&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyOcheretenko&layout=compact&hide_border=true&theme=buefy" /></a> |
 | ------------- | ------------- |
 
 <!--
