@@ -3,6 +3,7 @@
 💻 [Python/JavaScript developer](https://github.com/SergeyOcheretenko)
 🌱 Learning JavaScript and Node.js technology with [HowProgrammingWorks](https://www.github.com/HowProgrammingWorks)
 🎓 Student and group leader at Kyiv Polytechnic Institute, FICT
+🌍 Owner and contributor to the student organization [Metaboros](https://github.com/Metaboros)
 🏆 Team Lead of the math and physics team | [UNEXT](https://unext.in.ua)
 🎸 Guitarist
 💬 Telegram: [@OcheretenkoS](https://telegram.me/OcheretenkoS)
