@@ -6,6 +6,7 @@
 🌍 Owner and contributor to the student organization [Metaboros](https://github.com/Metaboros)
 🏆 Team Lead of the math and physics team | [UNEXT](https://unext.in.ua)
 🎸 Guitarist
+🔭 [Certificates](https://github.com/SergeyOcheretenko/Certificates)
 <!-- 📺 Resume -->
 
 <p align="center">
