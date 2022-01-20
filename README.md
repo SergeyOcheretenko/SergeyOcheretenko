@@ -7,6 +7,8 @@
 🏆 Team Lead of the math and physics team | [UNEXT](https://unext.in.ua)
 🎸 Guitarist
 🔭 [Certificates](https://github.com/SergeyOcheretenko/Certificates)
+💬 Telegram: [@OcheretenkoS](https://telegram.me/OcheretenkoS)
+📫 [ocheretenko.s@gmail.com](mailto:ocheretenko.s@gmail.com)
 <!-- 📺 Resume -->
 
 <p align="center">
