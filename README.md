@@ -2,7 +2,7 @@
  
 💻 [JavaScript/Python developer](https://github.com/SergeyOcheretenko/LearningProgramming)
 🌱 Learning JavaScript and Node.js technology with [HowProgrammingWorks](https://www.github.com/HowProgrammingWorks)
-🍊 Open to Junior Developer vacancies
+🍊 Open to Junior/Intern Developer vacancies
 🎓 Student and group leader at Kyiv Polytechnic Institute, FICT
 🌍 Owner and contributor to the student organization [Metaboros](https://github.com/Metaboros)
 🏆 Lead of the math and physics team | [UNEXT](https://unext.in.ua)
