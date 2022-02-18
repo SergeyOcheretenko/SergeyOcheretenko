@@ -11,4 +11,4 @@
 💬 Telegram: [@OcheretenkoS](https://telegram.me/OcheretenkoS)
 🔭 [LinkedIn](https://www.linkedin.com/in/sergeyocheretenko/)
 📫 [ocheretenko.s@gmail.com](mailto:ocheretenko.s@gmail.com)
-<!-- 📺 Resume -->
+📺 [Resume](https://sergeyocheretenko.github.io/Resume/)
