@@ -1,4 +1,4 @@
-<h3> Hi, I'm Sergey <img src="./wave.gif" width="20px"> </h3>
+<h3> Hi, I'm Sergey 👋 </h3>
  
 <code>💻 [Node.js/JavaScript developer](https://github.com/SergeyOcheretenko/LearningProgramming)</code>
 <code>🌱 Learning JavaScript and Node.js technology with [HowProgrammingWorks](https://www.github.com/HowProgrammingWorks)</code>
