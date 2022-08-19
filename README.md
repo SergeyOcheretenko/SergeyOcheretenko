@@ -1,6 +1,6 @@
 <h3> Hi, I'm Sergey 👋 </h3>
  
-<code>💻 [Node.js/TypeScript developer](https://github.com/SergeyOcheretenko/LearningProgramming)</code>
+<code>💻 TypeScript/NestJS developer at [CML Team](https://www.cmlteam.com/)</code>
 <code>🎓 Student and group leader at Kyiv Polytechnic Institute, FICT</code>
 <code>🏆 Former teacher of the math and physics</code>
 <code>⭐ [Certificates](https://github.com/SergeyOcheretenko/Certificates)</code>
