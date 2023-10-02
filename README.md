@@ -1,4 +1,4 @@
-<h3> Hi, I'm Sergey 👋 </h3>
+<h3> Hi, I'm Serhii 👋 </h3>
  
 <code>💻 TypeScript/NestJS developer at [CML Team](https://www.cmlteam.com/)</code>
 <code>🎓 Student and group leader at Kyiv Polytechnic Institute, FICT</code>
