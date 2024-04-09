@@ -1,6 +1,6 @@
 <h3> Hi, I'm Serhii 👋 </h3>
  
-<code>💻 TypeScript/NestJS developer at [CML Team](https://www.cmlteam.com/)</code>
+<code>💻 Full Stack Engineer at SKELAR</code>
 <code>🎓 Student and group leader at Kyiv Polytechnic Institute, FICT</code>
 <code>🏆 Former teacher of the math and physics</code>
 <code>⭐ [Certificates](https://github.com/SergeyOcheretenko/Certificates)</code>
